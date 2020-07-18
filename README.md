@@ -32,6 +32,16 @@ on smart contracts development. (Est. time: 15 minutes)
 4. Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/)
 5. Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
+## Hyperledger 
+### Theory
+1. READ (https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
+2. Get Projects (https://www.hyperledger.org/use) 
+
+## Matic 
+### Theory 
+1. Read the documentation(https://docs.matic.network/)
+2. Watch this Video (https://www.youtube.com/watch?v=oROBqp3xj4o)
+
 #### Practice
 1. Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) (Est. time: 8 hs)
 2. Read and make and example: [Pet shop tutorial](http://truffleframework.com/tutorials/pet-shop)
